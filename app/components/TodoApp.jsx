@@ -4,10 +4,13 @@ var TodoApp = React.createClass({
   render: function () {
     return (
       <div>
-        TodoApp.jsx
+          Todo App file
       </div>
-    )
+
+    );
   }
+
 });
+
 
 module.exports = TodoApp;
